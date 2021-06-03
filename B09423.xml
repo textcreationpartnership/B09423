@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Speech delivered at a visitation held in the Diocese of Clogher; sede vacante. September 27. 1671 / by D.L. ; published not only at the desire and instance of the whole clergy of that diocese, but also at the further instance of the Right Reverend Father in God, Robert, Lord Bishop of Kilmore and Ardagh, expressed in his letter thereunto prefixed.  Together with an epitaph written by his lordship, on John, Lord Bishop of Clogher, deceased.</title>
+            <author>Loftus, Dudley, 1619-1695.</author>
+         </titleStmt>
+         <extent>Approx. 26KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09423</idno><idno type="EEBO-CITATION">69648722</idno>
+  <idno type="VID">184966</idno>
+  <idno type="EEBO-PROQUEST">2264207456</idno>
+  
+            <idno type="STC">Wing L2828</idno>
+            <idno type="STC">ESTC R180009</idno>
+            <idno type="OCLC">69648722</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09423)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184966)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2882:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Speech delivered at a visitation held in the Diocese of Clogher; sede vacante. September 27. 1671 / by D.L. ; published not only at the desire and instance of the whole clergy of that diocese, but also at the further instance of the Right Reverend Father in God, Robert, Lord Bishop of Kilmore and Ardagh, expressed in his letter thereunto prefixed.  Together with an epitaph written by his lordship, on John, Lord Bishop of Clogher, deceased.</title>
+                  <author>Loftus, Dudley, 1619-1695.</author>
+               </titleStmt>
+               <extent>[6], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Benjamin Tooke, Printer to the King's Most Excellent Majesty; and are to be sold by Joseph Wilde in Castle-street Book-seller,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>MDCLXXI. [1671]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages cropped with slight loss of text.</note>
+                  <note>Reproduction of original in: Trinity College (University of Cambridge). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Presbyterian Church --  Controversial literature --  Early works to 1800.</term>
+               <term type="corporate_name">Church of Ireland --  Clergy --  Early works to 1800.</term>
+               <term type="topical_term">Covenanters --  England --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Visitation sermons --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184966:1"/>
+            <pb facs="tcp:184966:1"/>
+            <p>SPEECH DELIVERED at a VISITATION HELD in the DIOCESE of CLOGHER; <hi>SEDE VACANTE.</hi> September 27. 1671.</p>
+            <p>By <hi>D. L. L. D.</hi> VICAR-GENERAL to His GRACE, the LORD PRIMATE of all <hi>IRELAND.</hi>
+            </p>
+            <p>PUBLISHED Not only at the desire and instance of the whole CLERGY of that DIOCESE, but also at the further instance of the <hi>Right Reverend Father in GOD,</hi> ROBERT, Lord Bishop of <hi>Kilmore</hi> and <hi>Ardagh,</hi> expressed in his Letter thereunto prefixed.</p>
+            <p>TOGETHER With an EPITAPH written by his Lordship, on JOHN, Lord Bishop of CLOGHER, deceased.</p>
+            <p>
+               <hi>DƲBLIN,</hi> Printed by <hi>Benjamin Tooke,</hi> Printer to the King's Most Excellent MAJESTY; And are to be Sold by <hi>Joseph Wilde</hi> in CASTLE-STREET <hi>Book-seller.</hi> M.DC.LXXI.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:184966:2"/>
+            <pb facs="tcp:184966:2"/>
+            <head>Amico suo admodum Reverendo <hi>Dud<g ref="char:EOLhyphen"/>leio Loftusio</hi> J. V. D. Vicario Gene<g ref="char:EOLhyphen"/>rali Armachano, &amp; Summae Curiae Cancellariae in hoc Regno Hiberniae Magistro.</head>
+            <p>CLarissime Ʋir! in quo vel solo vel principe, praeter exactissimam Linguarum Orientalium Cogni<g ref="char:EOLhyphen"/>tionem, Juris Canonici, &amp; Civilis pruden<g ref="char:EOLhyphen"/>tia, apud nos injuriâ temporum unà cum professoribus penè extincta, non reviviscit modò sed &amp; eminet. Totus per me Clerus <hi>Clogherensis</hi> exoratum te volunt quate<g ref="char:EOLhyphen"/>nùs Orationem illam tuam Luculentissi<g ref="char:EOLhyphen"/>mam, quam apud eos in <hi>VISITATIONE ista sede vacante,</hi> nupèr habuisti &amp; in quâ <hi>Johannis Leslaei</hi> Episcopi sui defuncti Vi<g ref="char:EOLhyphen"/>tam,
+<pb facs="tcp:184966:3"/> Mores, Pietatem &amp; Doctrinam, quasi in Tabulâ Apellaeo plùs quam pene<g ref="char:EOLhyphen"/>cillo, tuo more depinxisti, Praelo, in eorum gratiam, haud gravatim permittas. Quod &amp; tua quoque tempora summopere à te, &amp; jure suo contendunt. Ʋt sciant poste<g ref="char:EOLhyphen"/>ri, occubuisse etiam hìc apud nos, in extre<g ref="char:EOLhyphen"/>mo Orbis terrarum angulo, qualem, vel Ec<g ref="char:EOLhyphen"/>clesia Primitiva, sibi optasset Episcopum. Vir enim verè magnus fuit, ut cum maxi<g ref="char:EOLhyphen"/>mis compararetur. Praevidemus tuam hic renitentiam, quia scimus modestiam. sed tot tantorumque Virorum precibus obnixius repugnare, crede mihi, modestiae erit plus quàm immodestae. à qua culpâ te esse ali<g ref="char:EOLhyphen"/>enissimum, nota tua cum justitia, tum hu<g ref="char:EOLhyphen"/>manitas indicio est. Monumento quovis aere perenniori, à te illi posito, Epitaphium nostrum, per me licet, addas. Ʋalere te jubet Literatorum decus</p>
+            <closer>
+               <signed>
+                  <hi>Salutis &amp; famae tuae cupidiss. ROB:</hi> Kilmorensis, <hi>&amp;c.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:184966:3"/>
+            <head>EPITAPHIUM Reverendi admodum in Christo Patris JOHANNIS EPISCOPI <hi>CLOGHERENSIS</hi> Nuper defuncti Memoriae dicatum.</head>
+            <l>Scotia me genuit, me Gallia fovit alumnum,</l>
+            <l>Dictatis sapuit Gallus, iberque meis.</l>
+            <l>Sodorensis apud Scotos, Rapotensis Hibernos,</l>
+            <l>Et Clogherensis Ego, Rege jubente, fui.</l>
+            <l>Quin à Consiliis, Ragnóque Senator utroque,</l>
+            <l>Ʋnus eram, &amp; solus, Regibus, ipse tribus.</l>
+            <l>Aetate hâc nemo tot vixit Episcopus annos,</l>
+            <l>Aevi nemo magìs mole gravatus obit.</l>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:184966:4"/>
+            <pb facs="tcp:184966:4"/>
+            <p>I Am entered into a <hi>Diocese,</hi> yet overcast with the <hi>black</hi> of <hi>Funeral Obsequies,</hi> for a <hi>Right Reverend,</hi> and <hi>Pious Father</hi> of the <hi>Church,</hi> JOHN, LORD BISHOP of CLOGHER; And the <hi>Resentments</hi> of <hi>Grief</hi> which invade my <hi>Mind</hi> at this time, from the con<g ref="char:EOLhyphen"/>sideration of his <hi>Retirement</hi> into the <hi>Shades of Death,</hi> Clogg my <hi>Thoughts</hi> with many <hi>melancholy Reflections;</hi> amongst which, it is a <hi>sad Contemplation,</hi> to consider the <hi>rapid Progress of Time,</hi> which frequently brings with it such <hi>Al<g ref="char:EOLhyphen"/>terations,</hi> arising out of the <hi>Incidents</hi> and <hi>Emer<g ref="char:EOLhyphen"/>gencies</hi> of <hi>Humane Actions,</hi> as would inevitably ruine the <hi>most solid Composure</hi> of all <hi>Humane Societies,</hi> were it not for the provision of <hi>seaso<g ref="char:EOLhyphen"/>nable Remedies</hi> against such <hi>Occurrences.</hi> What I have said, is generally true and obvious enough to <hi>common Observation;</hi> yet it is not more con<g ref="char:EOLhyphen"/>siderable, nor so evidently apparent in any o<g ref="char:EOLhyphen"/>ther instance, as in that of <hi>Ecclesiastical Societies;</hi> and amongst the many <hi>Alterations</hi> which the course of Time brings into that <hi>State,</hi> none would so soon <hi>hurry</hi> it into the precipice of in<g ref="char:EOLhyphen"/>evitable Ruine, as the <hi>Death of Bishops,</hi> were there not a <hi>Law</hi> to supply their <hi>Morta<g ref="char:EOLhyphen"/>lity,</hi> and to fill up the <hi>Vacancies</hi> of their <hi>Au<g ref="char:EOLhyphen"/>thority;</hi>
+               <pb facs="tcp:184966:5"/> either by the <hi>Concatenation</hi> of persons in a due <hi>Succession</hi> in their respective <hi>Sees,</hi> or else by a <hi>subsidiary Administration</hi> of their pow<g ref="char:EOLhyphen"/>er by those who have that Authority <hi>sede va<g ref="char:EOLhyphen"/>cante;</hi> for which Reasons, the <hi>Apostles</hi> instituted by our <hi>Saviour</hi> for the <hi>Government</hi> of his <hi>Church,</hi> appointed the Order of <hi>Bishops</hi> to fol<g ref="char:EOLhyphen"/>low them in a <hi>perpetual Succession,</hi> as to that <hi>Administration:</hi> And since their Time, there hath been made in the <hi>Church,</hi> a regular pro<g ref="char:EOLhyphen"/>vision to exercise that <hi>Jurisdiction</hi> in every Va<g ref="char:EOLhyphen"/>cancy, which hath been constantly performed by the several <hi>Metropolitans,</hi> or their respective <hi>Commissaries</hi> in every <hi>Province</hi> of this <hi>Kingdom,</hi> in the several <hi>Dioceses</hi> of their respective <hi>Suf<g ref="char:EOLhyphen"/>fragans,</hi> who, like <hi>wise Stewards,</hi> have in such Cases proportioned their <hi>Dispensations,</hi> accord<g ref="char:EOLhyphen"/>ing to the Exigencies of the <hi>Clergy</hi> and <hi>People,</hi> until the <hi>Supreme Authority</hi> were pleased to in<g ref="char:EOLhyphen"/>fuse new Vigours into the <hi>suspended ordinary Jurisdiction,</hi> by the <hi>Installation</hi> of a <hi>New Bishop,</hi> fit to fill the place of so <hi>high a Function:</hi>
+            </p>
+            <p>Wherefore <hi>His Grace</hi> the <hi>Lord PRIMATE,</hi> pursuant to <hi>His undoubted Authority,</hi> being as wil<g ref="char:EOLhyphen"/>ling to inform Himself of <hi>your Condition,</hi> as to satisfie you of <hi>His Care,</hi> but unable to accom<g ref="char:EOLhyphen"/>modate <hi>His weighty Occasions</hi> elsewhere, to the
+<pb facs="tcp:184966:5"/> desire He had to visit you in <hi>Person;</hi> hath com<g ref="char:EOLhyphen"/>mitted that <hi>Office</hi> unto me, as an Affair which requires a <hi>sollicitous Inspection.</hi>
+            </p>
+            <p>I shall therefore endeavour, with an heedful diligence, to enquire, and then labour to fit such accommodations of <hi>Ecclesiastical Policy</hi> and <hi>Discipline,</hi> to the measures which shall be taken of the State, Interest and Exigencies of this <hi>Dio<g ref="char:EOLhyphen"/>cese,</hi> as may make the best Declaration of <hi>His Graces Care</hi> of you, and of <hi>my duty</hi> in ministring unto Him therein, which is <hi>my onely business</hi> here at this Time; for had I not been governed more by <hi>my duty,</hi> than <hi>Interest,</hi> I should not have come at present, willingly, on this occasion; how<g ref="char:EOLhyphen"/>ever, if I shall have the <hi>Honour</hi> to serve the Ad<g ref="char:EOLhyphen"/>vantages of <hi>Religion,</hi> or to pleasure the <hi>meanest Clergy-man</hi> in the <hi>Diocese,</hi> I shall think my self abundantly recompens'd.</p>
+            <p>The <hi>duty</hi> and <hi>office</hi> which this <hi>day</hi> and <hi>occa<g ref="char:EOLhyphen"/>sion</hi> calls for from you, is so intelligibly declared in <hi>His Graces Mandat,</hi> which hath been read, that I need not say any more, to <hi>usher</hi> you into that Affair; yet I cannot attend your entrance thereinto, until you shall be desired to address your Attention to a <hi>just Testification</hi> of my Re<g ref="char:EOLhyphen"/>spects due to the <hi>Honoured Memory</hi> of your <hi>late Diocesan;</hi> for the <hi>Sepulchre</hi> of his <hi>Body,</hi>
+               <pb facs="tcp:184966:6"/> will never be the <hi>Grave</hi> of his <hi>Memory;</hi> nay, though <hi>Death</hi> hath removed him from us, yet may not he live and govern here still? as <hi>Con<g ref="char:EOLhyphen"/>stantine</hi> the Great, is said to have Reigned after his Death, <hi>in the memory of his subjects.</hi>
+            </p>
+            <p>As <hi>Detraction</hi> is one of the greatest Offenders in <hi>Humane society,</hi> so a <hi>seasonable declaration</hi> of <hi>deserved praises,</hi> is the <hi>legitimate issue</hi> of <hi>Morali<g ref="char:EOLhyphen"/>ty,</hi> the <hi>life</hi> of <hi>Memory,</hi> and the <hi>grateful Messenger</hi> of <hi>Antiquity,</hi> and is commonly entertained with acceptance: I wish therefore, that I had a <hi>Tongue</hi> as able to utter his <hi>Attributes</hi> in their due splen<g ref="char:EOLhyphen"/>dor, as you have an <hi>Ear</hi> ready to entertain them; I confess, they might have been better fitted to the <hi>Funeral Pomp</hi> of his <hi>Obsequies,</hi> than to this <hi>Occasion,</hi> which will not give me leave to represent them in a <hi>Geometrical scituation,</hi> ac<g ref="char:EOLhyphen"/>cording to their <hi>full dimensions,</hi> but as by <hi>Per<g ref="char:EOLhyphen"/>spective,</hi> and at a distance lesser than they are: And I must assure you, That as I shall not attri<g ref="char:EOLhyphen"/>bute any thing unto <hi>him</hi> which was not <hi>his due,</hi> so I must necessarily omit very <hi>many things</hi> which deserve <hi>commendation,</hi> and were in the <hi>contexture</hi> of my thoughts; my purpose being rather to shew, That I was not altogether a <hi>stran<g ref="char:EOLhyphen"/>ger unto him,</hi> then to make a <hi>plenary recital of his Life:</hi> And that I may the more distinctly breath
+<pb facs="tcp:184966:6"/> my Thoughts into your attentive Ears, I shall re<g ref="char:EOLhyphen"/>duce all that I have to say, within the compre<g ref="char:EOLhyphen"/>hension of five particulars.</p>
+            <p>First, <hi>I shall present you with the Blos<g ref="char:EOLhyphen"/>soms of his Youth.</hi>
+            </p>
+            <p>Secondly, <hi>I shall shew you the Degrees and Steps by which he was advanced in<g ref="char:EOLhyphen"/>to Repute of the World, and his</hi> ROYAL MASTERS <hi>Favour.</hi>
+            </p>
+            <p>Thirdly, <hi>I shall set forth at least some of his A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rings before the War.</hi>
+            </p>
+            <p>Fourthly, <hi>I shall give a touch at his Sufferings, during the time of the Abhor<g ref="char:EOLhyphen"/>red Vsurpation.</hi>
+            </p>
+            <p>Fifthly, <hi>I shall represent the last Scene of his Life, Acted between the Kings Restitution, and his Egress out of the World.</hi>
+            </p>
+            <p>And herein I shall not, as they say, <hi>Prendre la chose de plus haut,</hi> by the derivation of him from <hi>his Original;</hi> nor shall I repeat the <hi>Domesti<g ref="char:EOLhyphen"/>cal History</hi> of <hi>his Ancestors;</hi> nor the <hi>Antiquity</hi> of <hi>his Family,</hi> for that would take up time needlesly, inasmuch as I speak to those who know it was not <hi>obscure,</hi> though his <hi>own Atchievements</hi> raised it to a higher degree of <hi>splendor.</hi>
+            </p>
+            <pb facs="tcp:184966:7"/>
+            <p>He was sent in his <hi>younger years</hi> to take up <hi>Learning</hi> in <hi>France,</hi> where <hi>his Behaviour</hi> did con<g ref="char:EOLhyphen"/>sist in actions of <hi>dutiful Conformity</hi> to the Rules of <hi>his Instructors;</hi> and though he was then in <hi>some things</hi> carried beyond the conduct of <hi>his own Inclinations,</hi> yet would <hi>he not drink so deep</hi> as others did of the <hi>Lake of</hi> GENEVA; there, in the <hi>sedulous</hi> course of <hi>his Study,</hi> he suddenly became a <hi>great</hi> and <hi>judicious Master</hi> of <hi>Wit,</hi> having then adorned an <hi>excellent natural Ingenuity,</hi> with many <hi>choice Flowers</hi> of <hi>Divine</hi> and <hi>Humane Lear<g ref="char:EOLhyphen"/>ning;</hi> and particularly improved himself to so great a perfection in the <hi>Greek</hi> and <hi>Latin Tongue,</hi> (whereof he had a deep tincture before) that afterwards, the <hi>prompt, florid</hi> and <hi>genuine Expres<g ref="char:EOLhyphen"/>sions</hi> of himself in the latter, when he was in <hi>Spain,</hi> procured him this <hi>Eulogie</hi> in several Conferences of many Learned men, <hi>Solus</hi> Laslaeus <hi>Latine loquitur.</hi> In the next place, he applied himself to <hi>penetrate</hi> into <hi>abstruse con<g ref="char:EOLhyphen"/>ceptions</hi> in the most retired corners of <hi>know<g ref="char:EOLhyphen"/>ledge;</hi> and in <hi>particular,</hi> addicted himself to <hi>School-Divinity,</hi> the <hi>quintessence</hi> and <hi>best refined part</hi> of <hi>Learning,</hi> and to the <hi>Art of Memory,</hi> ac<g ref="char:EOLhyphen"/>cording to the <hi>Lullian</hi> Rules: These <hi>Endow<g ref="char:EOLhyphen"/>ments</hi> recommended him to a <hi>Readers place,</hi> where the <hi>lustre</hi> of so <hi>shining a Reputation</hi> as he
+<pb facs="tcp:184966:7"/> gain'd in sustaining the <hi>Honour</hi> of that <hi>Chair,</hi> proclaim'd <hi>his Merit</hi> to <hi>Publick Notice;</hi> where<g ref="char:EOLhyphen"/>upon, some <hi>Noble person</hi> of <hi>his Kindred,</hi> and o<g ref="char:EOLhyphen"/>thers of <hi>high place,</hi> willing to countenance the <hi>Reputation</hi> of so <hi>hopeful a Scholar,</hi> encouraged him to appear at <hi>Court,</hi> where he was immediate<g ref="char:EOLhyphen"/>ly recommended to the <hi>Kings Favour,</hi> which brings me to the <hi>second particular</hi> proposed, which was, the <hi>degrees</hi> and <hi>steps</hi> by which he was advanced into the <hi>Repute of the World, and his</hi> ROYAL MASTERS <hi>Favour.</hi>
+            </p>
+            <p>The first <hi>Ray</hi> of <hi>Royal Favour</hi> that ever fell on <hi>his Honour</hi> from <hi>that King,</hi> was darted at <hi>his discreet Humility;</hi> for it was observed by that <hi>wise King,</hi> that nothing commends <hi>Church-men</hi> more, than a <hi>pious</hi> and <hi>discreet humility:</hi> They being like <hi>Medals,</hi> to which <hi>Vertue</hi> and <hi>Learn<g ref="char:EOLhyphen"/>ing</hi> may give the <hi>stamp,</hi> but <hi>Humility</hi> must give the <hi>weight.</hi> About this time he was inlisted the <hi>Kings Chaplain,</hi> and thereby having obtained a Residence at Court, which is the <hi>best scituation</hi> for <hi>prospect</hi> into the Affairs of the World, he gained <hi>great advantages</hi> of knowing Commerce with Men, and so became <hi>excellently well versed</hi> in the practical parts of <hi>Morality,</hi> insomuch, that in a short time afterward, he was highly esteem'd for <hi>stratagems of State,</hi> and the <hi>highest Transacti<g ref="char:EOLhyphen"/>ons</hi>
+               <pb facs="tcp:184966:8"/> of <hi>Business. His Behaviour</hi> also shewed, That he was not then ignorant of the <hi>outward Addresses</hi> of Courtship, yet <hi>Reality</hi> was his <hi>pro<g ref="char:EOLhyphen"/>fession</hi> and <hi>practice;</hi> and though <hi>his natural dis<g ref="char:EOLhyphen"/>position</hi> had set up a <hi>great Gravity in his Behavi<g ref="char:EOLhyphen"/>our,</hi> yet his <hi>facetious deportment</hi> amongst <hi>Persons of Honour,</hi> rendred his Conversation most accep<g ref="char:EOLhyphen"/>table. Again, He was then so choice a <hi>Maga<g ref="char:EOLhyphen"/>zine</hi> of LEARNING and WIT, that his <hi>ordina<g ref="char:EOLhyphen"/>ry discourse</hi> abounded with <hi>refined subtilties</hi> of <hi>Learning,</hi> or rare <hi>sublimities of Poetry,</hi> according as he had occasion to vary his <hi>discourse</hi> in the several <hi>Interchanges</hi> of Company; but no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hing contributed more to <hi>his further advancement,</hi> than that he was so exempt from <hi>Avarice</hi> and <hi>Ambition,</hi> that he laboured more to <hi>deserve well,</hi> than to <hi>obtain</hi> that which he deserved; it is not therefore to be admir'd, that so many rare <hi>Endowments</hi> concentred in <hi>this person:</hi> He was received by the <hi>KING</hi> into so high a de<g ref="char:EOLhyphen"/>gree of <hi>Trust</hi> and <hi>Privacy,</hi> that after he had <hi>de<g ref="char:EOLhyphen"/>pended</hi> for some time on the <hi>Liberality</hi> of his Princely influence, he was not only <hi>constituted</hi> DEAN of the Chappel to King JAMES <hi>of ever blessed Memory,</hi> when he was last in <hi>Scotland,</hi> but also he was made as it were, <hi>Ʋno Flatu, <hi>Bishop of the Isles,</hi>
+               </hi> and a <hi>Privy Counsel<g ref="char:EOLhyphen"/>lor</hi>
+               <pb facs="tcp:184966:8"/> in <hi>Scotland.</hi> I being now arrived to this period, am to proceed to the third particular proposed, which is the <hi>Relation</hi> of some of <hi>his Actings,</hi> after he was made a <hi>Prelate,</hi> until the <hi>War began.</hi>
+            </p>
+            <p>When he was <hi>Installed in the Bishoprick of the Isles,</hi> at <hi>his Primary Visitation,</hi> he found so <hi>irre<g ref="char:EOLhyphen"/>concileable a difference</hi> between the <hi>Inhabitants barbarity,</hi> and <hi>his polisht behaviour;</hi> He found the very <hi>Clergy</hi> there so <hi>indocible,</hi> and <hi>obstinate</hi> to all <hi>impressions</hi> of <hi>Civility</hi> and <hi>Piety,</hi> that he <hi>im<g ref="char:EOLhyphen"/>mediately</hi> began to <hi>meditate</hi> on his Removal thence; which was effected, by <hi>his Translation</hi> to the Bishoprick of <hi>Raphoe;</hi> and at the <hi>same time,</hi> was <hi>Honoured</hi> with the <hi>charge</hi> of a <hi>Privy Counsellor in this Kingdom also;</hi> where he did with <hi>much Reputation to himself,</hi> and no <hi>less</hi> advantage to the service of the <hi>Crown,</hi> support the <hi>Honour</hi> and <hi>Dignity</hi> His then MAJESTY had so <hi>Graciously seated him in.</hi> He being now <hi>Inthroned</hi> in <hi>his CATHEDRAL</hi> of <hi>Raphoe,</hi> I must take special notice of <hi>one magnificent Act of his,</hi> amongst <hi>many others,</hi> which imports so much to <hi>his Honour,</hi> and so far goes beyond all examples of his <hi>Predecessors,</hi> and all other <hi>Prelates his Contemporaries,</hi> in that kind, that I cannot <hi>pass</hi> it over, without being <hi>guilty</hi> of a
+<pb facs="tcp:184966:9"/>
+               <hi>blame-worthy Omission;</hi> and that is, the <hi>Erecting</hi> of a <hi>Capacious</hi> and <hi>Sumptuous Palace for him<g ref="char:EOLhyphen"/>self,</hi> and <hi>his Successors,</hi> at <hi>his own charge;</hi> of a <hi>strong structure,</hi> and <hi>beautiful composure,</hi> which his Successor in that <hi>Diocese</hi> now enjoyeth. He was then, and many years afterward, <hi>a fre<g ref="char:EOLhyphen"/>quent Preacher;</hi> his <hi>Sermons</hi> alwayes consisted of most <hi>significant speech,</hi> handsomely apparrelled, comprehending such <hi>strength of Reason,</hi> as gave great <hi>satisfaction</hi> to all his Hearers, and gain'd to himself <hi>great Applause:</hi> And were delivered, not <hi>meanly</hi> or <hi>contemptibly,</hi> in the <hi>beggerly</hi> or <hi>despi<g ref="char:EOLhyphen"/>cable way</hi> of <hi>Reading,</hi> but <hi>memoriter;</hi> with such <hi>Vivacity of Speech, such Grace of Action,</hi> and <hi>such sutableness of Gesture,</hi> that he might have been termed, <hi>The Module of Quaint Preaching;</hi> hence it hath been said of him, and another Bishop of his name, <hi>That no man could Preach more Gracefully than the one, nor with more Authority than the other.</hi>
+            </p>
+            <p>Methinks I now see him <hi>falling</hi> from the <hi>highest Pinacle</hi> of <hi>his Fortune,</hi> to a <hi>low Condition;</hi> and that brings me to the fourth particular, which is, <hi>His Suffering in the Time of V<g ref="char:EOLhyphen"/>surpation;</hi> for, after he had in Times of <hi>great Necessity,</hi> for the <hi>defence</hi> of <hi>himself,</hi> and the <hi>King<g ref="char:EOLhyphen"/>doms preservation,</hi> Couragiously managed the
+<pb facs="tcp:184966:9"/>
+               <hi>shield,</hi> to <hi>his Immortal Honour,</hi> and the <hi>highest Repute</hi> of <hi>personal Valour; his Countenance</hi> being so <hi>dareing,</hi> and <hi>his Words</hi> so powerfully <hi>inciting</hi> up<g ref="char:EOLhyphen"/>on all <hi>perilous Exigents,</hi> as was sufficient to <hi>in<g ref="char:EOLhyphen"/>spire</hi> Courage into dismay'd Souldiers, He is at length, by the <hi>Rigid Tyranny</hi> of <hi>Vsur<g ref="char:EOLhyphen"/>pation,</hi> not only <hi>deprived of his Bishoprick,</hi> but also <hi>disgracefully</hi> thrust out <hi>of his Palace,</hi> and reduced to the <hi>Obscurity of Solitude</hi> in a <hi>Pagli<g ref="char:EOLhyphen"/>arella,</hi> in the Parish of <hi>Raphoe;</hi> where, though <hi>his Jurisdiction</hi> was not only <hi>Inhabited,</hi> but also <hi>Overawed by Guards of Souldiers,</hi> he would not <hi>suspend</hi> the declaration of his Care, <hi>of his then small flock,</hi> constantly <hi>Preaching</hi> unto them.</p>
+            <p>During this <hi>severe Extremity of Fortune,</hi> he lay, as it were, <hi>Intombed</hi> in the Region of a Civil <hi>Death;</hi> and though he was then for his <hi>Age</hi> venerable, and a <hi>good Conscience sacred,</hi> yet was he unnaturally <hi>persecuted</hi> by some of <hi>his own Countrey-men,</hi> persons of <hi>bad affections,</hi> and <hi>worse principles;</hi> but, to shew that <hi>his Vertues</hi> were <hi>equally bright</hi> in both <hi>extremities</hi> of his <hi>checker'd Fortune, his Fidelity</hi> did then <hi>suggest</hi> unto him, that <hi>Noble Liberty</hi> which he frequent<g ref="char:EOLhyphen"/>ly took, in vindicating the <hi>Cause of the Church,</hi> and the <hi>Kings Honour;</hi> whose <hi>Restitution</hi> so oft<g ref="char:EOLhyphen"/>en prayed for by him <hi>in my hearing,</hi> brings me
+<pb facs="tcp:184966:10"/> to the last particular, viz. <hi>The last Scene of his Life, Arted between the Kings Resti<g ref="char:EOLhyphen"/>tution, and his</hi> Quietus est.</p>
+            <p>At the Kings Return into <hi>England,</hi> the pre<g ref="char:EOLhyphen"/>heminency of <hi>Age</hi> made him the <hi>eldest Man;</hi> and the <hi>Priority of Consecration,</hi> had made him the most <hi>ancient Prelate</hi> in our Catalogue of Bi<g ref="char:EOLhyphen"/>shops: Then was he <hi>Restored</hi> to his Bishoprick of <hi>Raphoe,</hi> and every <hi>former Affront,</hi> was, by this <hi>glorious change,</hi> turned into a <hi>beam of splendour;</hi> and though he did not then <hi>step</hi> to a <hi>higher de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e</hi> of Promotion, by reason of his <hi>adhesion</hi> to his forementioned principle, viz. <hi>That he la<g ref="char:EOLhyphen"/>boured more to deserve well, than to ob<g ref="char:EOLhyphen"/>tain what he deserved:</hi> Yet was he upon the <hi>first Vacancy</hi> afterward, Translated to this <hi>Dio<g ref="char:EOLhyphen"/>cese,</hi> where he filled up and adorned the SEE, with great Examples <hi>worthy of Imitation;</hi> for his Conversation was not gilded with the Leaf<g ref="char:EOLhyphen"/>gold of an <hi>external profession,</hi> but most solid in the <hi>soundness</hi> of an interiour cordial reality and correspondency to the Rules of <hi>his Function.</hi> He well knew, That the <hi>safety of Government,</hi> as well <hi>Ecclesiastical,</hi> as <hi>Civil,</hi> did depend upon the <hi>Truth,</hi> and <hi>Conformity of Religion;</hi> for it is a <hi>Maxim</hi> publickly divulged in matters of <hi>State,</hi> and <hi>Registred</hi> for a fundamental Principle:
+<pb facs="tcp:184966:10"/> Wherefore, though bred under <hi>proce<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> P<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>yterians</hi> in <hi>France,</hi> he could never be per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>waded to <hi>countenance,</hi> or <hi>bring up such Presby<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ers</hi> under the <hi>Wing of Episcopacy;</hi> and all <hi>Conventicles of the Separation,</hi> he reso<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>utely Declared against, as the <hi>Synagogues</hi> and <hi>Schools</hi> of <hi>Hypocrisie</hi> and <hi>Dissimulation;</hi> well approving of what is read in the Life of <hi>Con<g ref="char:EOLhyphen"/>stantine,</hi> written by the Pen of <hi>Eusebius,</hi> who Relates, <hi>how that Noble, Wise and Pious Emperour, did not only prohibit Schis<g ref="char:EOLhyphen"/>maticks to meet at Conventicles, but al<g ref="char:EOLhyphen"/>so commanded their Meeting-places to be demolisht,</hi> Lib. III. Cap. 36.</p>
+            <p>At last (for I must hasten to an end) when <hi>Age,</hi> and its usual Concomitant, <hi>Debility of body,</hi> made him begin to <hi>fail</hi> under the <hi>burthen of Affairs,</hi> he endeavoured, by a seasonable Re<g ref="char:EOLhyphen"/>tirement, to Retreat to an <hi>innocent privacy,</hi> and to spin out the remainder of his <hi>Aged life</hi> in the <hi>Calms of Vacancy and Repose,</hi> minding no other Affairs, not the prosecution of any other <hi>design,</hi> than <hi>Acts of Devotion,</hi> and the Regular Government of his DIOCESE; <hi>Habens vi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am in patientia mortem in desiderio.</hi>
+            </p>
+            <p>
+               <hi>Evagrius</hi> speaking of the <hi>Monks</hi> of <hi>Palestine,</hi> said, <hi>Ʋt insepulti mortui videbantur;</hi> They seemed
+<pb facs="tcp:184966:11"/> to <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> men unburied: I might have said the like <hi>of this Prelate,</hi> for some of his latest Years, had not the <hi>strength of his Memory, his daily ex<g ref="char:EOLhyphen"/>ercising of devotion,</hi> and <hi>necessary Acts of Juris<g ref="char:EOLhyphen"/>diction,</hi> been <hi>sufficient Indications of his being alive;</hi> for in all Secular Affairs, he was Reputed as a <hi>dead man,</hi> minding only what was <hi>Reposited</hi> for him <hi>in Heaven,</hi> where I doubt not, but he now <hi>Resides in Eternal Glory;</hi> for as <hi>his Actions</hi> here were not only <hi>unblemisht,</hi> but also <hi>attended</hi> with the splendor of <hi>Religion</hi> and <hi>Piety,</hi> so assu<g ref="char:EOLhyphen"/>redly they have <hi>Glory</hi> for their period. It is said hyperbolically of <hi>Baronius, That he wrote as much as others can Read:</hi> And I am assured, this PRELATE hath performed more commendable Acts than I can speak of; I shall therefore leave <hi>him in fellowship with the Saints and blessed Angels in Heaven, where he hath a greater reward, than the praises of all men in the World can contribute; even a crown of Glory, where his Life is not to be pent up within set Limits of a short duration, or an uncertain state, as in this World; but to be commensurate with Eternity, in immutable and everlasting Glory.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:184966:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
